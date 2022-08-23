@@ -62,7 +62,7 @@ body{
 .slider-avatar{
     width: 400px;
     height: 500px;
-    background-image: url('https://github.com/Slowy404/profile/blob/main/image/icon-avatar/avatar.png?raw=true');
+    background-image: url('https://raw.githubusercontent.com/Slowy404/profile/main/image/icon-avatar/avatar.png');
     background-repeat: no-repeat;
     background-position-y: bottom;
     font-size: 125%;
@@ -191,7 +191,7 @@ h4{
     height: 190px;
     border-radius: 50%;
     background-color: #ffd556;
-    background-image: url('/image/icon-avatar/avatar.png')  ;
+    background-image: url('https://raw.githubusercontent.com/Slowy404/profile/main/image/icon-avatar/avatar.png')  ;
     background-repeat: no-repeat;
     background-position-x: 90%;
     margin-top: 50px;
@@ -200,7 +200,7 @@ h4{
 
 .thanhtich{
     padding-top: 30%;
-    background-image: url(https://github.com/Slowy404/profile/blob/main/image/background/gg-min.jpg?raw=true);
+    background-image: url('https://raw.githubusercontent.com/Slowy404/profile/main/image/background/gg-min.jpg');
     background-repeat: no-repeat;
     width: 100%;
     margin: 0 auto;
