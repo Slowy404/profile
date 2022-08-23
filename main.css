@@ -62,7 +62,7 @@ body{
 .slider-avatar{
     width: 400px;
     height: 500px;
-    background-image: url('/image/icon-avatar/avatar.png');
+    background-image: url('https://github.com/Slowy404/profile/blob/main/image/icon-avatar/avatar.png?raw=true');
     background-repeat: no-repeat;
     background-position-y: bottom;
     font-size: 125%;
